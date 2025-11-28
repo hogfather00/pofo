@@ -41,7 +41,7 @@ const projects = ref([
                 class: 'text-blue-400 hover:text-blue-300'
             },
             {
-                name: "Code", url: "#", icon: CodeBracketIcon, type: "external",
+                name: "Code", url: "https://github.com/hogfather00/pofo.git", icon: CodeBracketIcon, type: "external",
                 class: 'text-cyan-400 hover:text-cyan-300'
             },
 
