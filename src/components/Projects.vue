@@ -97,13 +97,13 @@ const projects = ref([
                 class: 'bg-cyan-500/20 border-cyan-400/30 text-cyan-200'
             },
             {
-                name: "Tailwind CSS",
+                name: "CSS",
                 class: 'bg-blue-500/20 border-blue-400/30 text-blue-200'
             },
         ],
         links: [
             {
-                name: "Code", url: "#", icon: CodeBracketIcon, type: "external",
+                name: "Code", url: "https://github.com/hogfather00/tasks-app", icon: CodeBracketIcon, type: "external",
                 class: 'text-cyan-400 hover:text-cyan-300'
             },
 
