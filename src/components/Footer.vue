@@ -71,9 +71,9 @@ const quickLinks = [
 
                   <!-- Services -->
                     <div class="flex flex-col gap-3 mt-4 rotate-180">
-                        <div class="w-24 h-[4px] bg-linear-to-r from-blue-500 to-cyan-400 rounded-full"></div>
-                        <div class="w-16 h-[4px] bg-linear-to-r from-cyan-400 to-teal-400 rounded-full"></div>
-                        <div class="w-32 h-[4px] bg-linear-to-r from-blue-600 to-teal-500 rounded-full"></div>
+                        <div class="w-24 h-2 bg-linear-to-r from-blue-500 to-cyan-400 rounded-full"></div>
+                        <div class="w-16 h-2 bg-linear-to-r from-cyan-400 to-teal-400 rounded-full"></div>
+                        <div class="w-32 h-2 bg-linear-to-r from-blue-600 to-teal-500 rounded-full"></div>
                     </div>
             </div>
             <!-- Bottom Bar -->
