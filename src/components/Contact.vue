@@ -1,9 +1,8 @@
 <script setup>
-import { ChatBubbleLeftRightIcon, EnvelopeIcon, 
+import { EnvelopeIcon, 
          MapPinIcon, 
-         PhoneIcon, 
-         ShareIcon, 
-         UserGroupIcon} from '@heroicons/vue/16/solid';
+         PhoneIcon
+        } from '@heroicons/vue/16/solid';
 
 </script>
 

@@ -2,7 +2,6 @@
 import { ref } from 'vue';
 import { ArrowRightIcon, 
         BuildingStorefrontIcon, 
-        ChatBubbleLeftRightIcon, 
         CodeBracketIcon,
         Cog8ToothIcon, 
         DocumentTextIcon,
