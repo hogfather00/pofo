@@ -19,7 +19,7 @@ const projects = ref([
         저의 이력을 간편하게 모아볼 수 있는 반응형 웹페이지를 작업하였습니다 반응형 컴포넌트들을 사용해서
         시각적 흥미도를 높이고, 방문하신 분들이 콘텐츠에 좀더 오래 집중할 수 있도록 작업했습니다
         `,
-        image: assetUrl('@/assets/project1.jpg'),
+        image: assetUrl('@/project1.jpg'),
         category: 'Portfolio',
         bordColor: "border-blue-500/20",
         badgColor: "bg-cyan-500",
@@ -56,7 +56,7 @@ const projects = ref([
                프론트에 해당 웹페이지를 연동하여 구동하였습니다. 페이지가 완성되고 난 후에는
                Brity RPA를 사용하여 자동화를 진행해 보았습니다
                `,
-        image: assetUrl('@/assets/project2.jpg'),
+        image: assetUrl('@/project2.jpg'),
         category: 'Full-Stack',
         bordColor: "border-cyan-500/20",
         badgColor: "bg-blue-500",
@@ -89,7 +89,7 @@ const projects = ref([
         필터를 사용해서 해야 할 일, 완료한 일을 반응형 웹으로 실시간으로 표기할 수 있도록
         했습니다
         `,
-        image: assetUrl('@/assets/project3.jpg'),
+        image: assetUrl('@/project3.jpg'),
         category: 'Portfolio',
         bordColor: "border-cyan-500/20",
         badgColor: "bg-cyan-500",
@@ -117,7 +117,7 @@ const projects = ref([
         desc: `석사 논문의 초록의 번역작업을 진행했으며, 국제 전시회에 참가할 때,
         홍보자료, 전시회 사용 자료들의 번역작업을 진행하고, 전시회에 참가하여 바이어들과
         계약이 잘 성사될 수 있도록 소통을 담당했습니다 `,
-        image: assetUrl('@/assets/project4.jpg'),
+        image: assetUrl('@/project4.jpg'),
         category: 'Translation',
         bordColor: "border-blue-500/20",
         badgColor: "bg-blue-500",
